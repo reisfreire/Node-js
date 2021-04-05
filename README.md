@@ -1,2 +1,2 @@
 # Node js
- Modelo de Nodejs
+ Modelo de Nodejs desenvolvido com o framework Express
